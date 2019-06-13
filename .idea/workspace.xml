@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sm_web:war" />
+      <artifact name="sm_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37af8815-3dee-492d-9114-59a01bbf2607" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/dictionaries/yuxiang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/sm_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/LogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/SelfDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/StaffDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/LogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/SelfService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/StaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/LogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/SelfServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/StaffServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/DepartmentDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/LogDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/SelfDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/StaffDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_service/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/LogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/SelfController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/StaffController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/DispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/LogAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/change_password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/css/thems.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/btn_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/icon9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/input_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/l_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/l_bga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/r_top_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/images/s_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/log_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/top.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/sm_web/target/" />
+    <ignored path="$PROJECT_DIR$/sm_service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="DepartmentServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/DepartmentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/DispatcherServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentDao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/DepartmentDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Log.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/LogDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Department.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../smProject" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_service/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_web/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/global/EncodingFilter.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/global/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/entity/Department.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/DepartmentService.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/webapp/department_list.jsp" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/sm_service/target/classes/spring.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/com.imooc.sm.dao/DepartmentDao.xml" />
+        <option value="$PROJECT_DIR$/sm_service/target/classes/com.imooc.sm.dao/DepartmentDao.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_service/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_web/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/com.imooc.sm.dao/DepartmentDao.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_service/pom.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/webapp/department_add.jsp" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/webapp/department_edit.jsp" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/entity/Staff.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/com/imooc/sm/dao/StaffDao.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/StaffService.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/StaffServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/StaffController.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/dao/StaffDao.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/dao/SelfDao.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/SelfService.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/com/imooc/sm/dao/SelfDao.xml" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/global/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/SelfController.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/dao/LogDao.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/LogService.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/resources/com/imooc/sm/dao/LogDao.xml" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/SelfServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/entity/Log.java" />
+        <option value="$PROJECT_DIR$/sm_service/src/main/java/com/imooc/sm/service/impl/LogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/controller/LogController.java" />
+        <option value="$PROJECT_DIR$/sm_web/src/main/java/com/imooc/sm/global/LogAdvice.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="width" value="1900" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/华为比赛/k-shortest-paths-java-version-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\smProject\sm_web\src\main\webapp" />
+      <recent name="D:\smProject\sm_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\smProject\sm_service\src\main\java\com\imooc\sm\dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\smProject\sm_web\src\main\webapp" />
+      <recent name="D:\smProject\sm_service\src\main\resources\com\imooc\sm\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/sm/department/list.do" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sm_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sm" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_smProject" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52310" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sm_web:war exploded" />
+          <artifact name="sm_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="sm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/sm/main.do" />
+      <deployment>
+        <artifact name="sm_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sm" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_smProject_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52310" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37af8815-3dee-492d-9114-59a01bbf2607" name="Default" comment="" />
+      <created>1553061833805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553061833805</updated>
+      <workItem from="1553061836964" duration="15617000" />
+      <workItem from="1553077633197" duration="1124000" />
+      <workItem from="1553078785369" duration="3198000" />
+      <workItem from="1553085037569" duration="2166000" />
+      <workItem from="1553134189519" duration="17355000" />
+      <workItem from="1553345983707" duration="922000" />
+      <workItem from="1553431907565" duration="26000" />
+      <workItem from="1553680203456" duration="69000" />
+      <workItem from="1553680403301" duration="1352000" />
+      <workItem from="1554257730249" duration="1424000" />
+      <workItem from="1555657079707" duration="960000" />
+      <workItem from="1560433391959" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44736000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="0" width="1520" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006868" side_tool="true" weight="0.32833582" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3298351" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298351" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49931318" weight="0.32833582" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298351" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/target/classes/com.imooc.sm.dao/DepartmentDao.xml" />
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/target/classes/dao/DepartmentDao.xml" />
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.xml" />
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/sm_service.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/target/classes/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/target/classes/com/imooc/sm/dao/DepartmentDao.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/department_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/StaffDao.xml.tld" />
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/StaffDao.tld" />
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/staff_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/StaffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/change_password.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/SelfController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="67" column="19" lean-forward="true" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/SelfDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/info.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/webapp/log_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/StaffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/SelfDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/LogDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/SelfService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/LogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/LogAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/StaffDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/LogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/SelfServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/StaffServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/StaffDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/impl/DepartmentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/LogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/com/imooc/sm/dao/DepartmentDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/global/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_web/src/main/java/com/imooc/sm/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/dao/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../smProject/sm_service/src/main/java/com/imooc/sm/entity/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sm_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sm_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:4.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
