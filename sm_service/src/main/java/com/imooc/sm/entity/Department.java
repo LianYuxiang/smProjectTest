@@ -27,5 +27,7 @@ public class Department {
 
     public void setAddress(String address) {
         this.address = address;
+        System.out.println("123");
+        System.out.println("123");
     }
 }
